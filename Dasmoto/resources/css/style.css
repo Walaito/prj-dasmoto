@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica;
+}
+h1 {
+  background-image: url("C:/projects/Dasmoto/resources/images/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+}
+
+.brushes h2 {
+  background-color: MediumSpringGreen;
+}
+
+.frames h2 {
+  background-color: lightcoral;
+}
+
+.paint h2 {
+  background-color: skyblue;
+}
+
+.cost {
+  font-weight: bold;
+  color: blue;
+}
