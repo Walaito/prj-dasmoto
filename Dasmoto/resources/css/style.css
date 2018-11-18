@@ -2,7 +2,7 @@ body {
   font-family: Helvetica;
 }
 h1 {
-  background-image: url("C:/projects/Dasmoto/resources/images/pattern.jpeg");
+  background-image: url("../images/pattern.jpeg");
   font-size: 100px;
   font-weight: bold;
   color: khaki;
